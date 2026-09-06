@@ -20,6 +20,6 @@ Maximum valid score: 100
 The if condition `score < 0 or score > 100` is used to determine whether the score falls outside the limit.
 
 **Selection Pattern: Which part uses multiple decision paths?**   
-The `elif` and `else` statements check the input (`>= 90`, `>= 80`, `>= 75`, and the remaining scores) to classify valid scores into their appropriate performance..
+The `elif` and `else` statements check the input (`>= 90`, `>= 80`, `>= 75`, and the remaining scores) to classify valid scores into their appropriate performance.
 
 
