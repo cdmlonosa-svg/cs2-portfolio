@@ -23,6 +23,10 @@ The if condition `score < 0 or score > 100` is used to determine whether the sco
 The `elif` and `else` statements check the input (`>= 90`, `>= 80`, `>= 75`, and the remaining scores) to classify valid scores into their appropriate performance.
 
 ## Part 2 - Create the Flowchart
-<img width="1042" height="695" alt="image" src="https://github.com/user-attachments/assets/819eafd8-3df1-4143-a4a8-a0c8be2a9c5c" />
+<img width="1042" height="695" alt="image" src="https://github.com/user-attachments/assets/819eafd8-3df1-4143-a4Va8-a0c8be2a9c5c" />
+START  INPUT score IF score < 0 OR score > 100 THEN DISPLAY "Invalid score." ELSE IF score >= 90 THEN DISPLAY "Outstanding" ELSE IF score >= 80 AND score < 90 THEN DISPLAY "Very Satisfactory" ELSE IF score >= 75 AND score < 80 THEN DISPLAY "Satisfactory" ELSE DISPLAY "Needs Improvement" ENDIF END
+
+
+
 
 
