@@ -23,7 +23,8 @@ The if condition `score < 0 or score > 100` is used to determine whether the sco
 The `elif` and `else` statements check the input (`>= 90`, `>= 80`, `>= 75`, and the remaining scores) to classify valid scores into their appropriate performance.
 
 ## Part 2 - Create the Flowchart
-<img width="1042" height="695" alt="image" src="https://github.com/user-attachments/assets/819eafd8-3df1-4143-a4Va8-a0c8be2a9c5c" />  
+<img width="967" height="710" alt="image" src="https://github.com/user-attachments/assets/700b7e08-c796-4865-85d9-6880a575798c" />
+
 
 ### Part 3 - Write the Pseudocode
 START  
