@@ -22,4 +22,7 @@ The if condition `score < 0 or score > 100` is used to determine whether the sco
 **Selection Pattern: Which part uses multiple decision paths?**   
 The `elif` and `else` statements check the input (`>= 90`, `>= 80`, `>= 75`, and the remaining scores) to classify valid scores into their appropriate performance.
 
+## Part 2 - Create the Flowchart
+<img width="1042" height="695" alt="image" src="https://github.com/user-attachments/assets/819eafd8-3df1-4143-a4a8-a0c8be2a9c5c" />
+
 
