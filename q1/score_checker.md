@@ -28,8 +28,8 @@ The `elif` and `else` statements check the input (`>= 90`, `>= 80`, `>= 75`, and
 
 ### Part 3 - Write the Pseudocode
 START  
-INPUT  
-score IF score < 0 OR score > 100 THEN  
+INPUT score  
+IF score < 0 OR score > 100 THEN  
 DISPLAY "Invalid score."  
 ELSE IF score >= 90 THEN  
 DISPLAY "Outstanding"  
