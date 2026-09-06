@@ -1,13 +1,13 @@
 **__Part 1 - Analyze the Logic_**
 
-**Input: What information does the program need?**
- The program needs an integer value representing the student's score.
-**Boundary: What is the minimum valid score?**
- Minimum valid score: 0
+> **Input: What information does the program need?**
+> The program needs an integer value representing the student's score.
+> **Boundary: What is the minimum valid score?**
+> Minimum valid score: 0
 **Boundary: What is the maximum valid score?**
- Maximum valid score: 100
+> Maximum valid score: 100
 **Possible Outputs: What outcomes can the program produce?**
-1. Invalid score.
+> 1. Invalid score.
 2. Outstanding
 3. Very Satisfactory
 4. Satisfactory
