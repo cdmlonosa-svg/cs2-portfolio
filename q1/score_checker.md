@@ -36,7 +36,8 @@ DISPLAY "Outstanding"
 ELSE IF score >= 80 AND score < 90 THEN  
 DISPLAY "Very Satisfactory"  
 ELSE IF score >= 75 AND score < 80 THEN  
-DISPLAY "Satisfactory" ELSE  
+DISPLAY "Satisfactory"  
+ELSE  
 DISPLAY "Needs Improvement"  
 ENDIF  
 END
