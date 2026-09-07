@@ -39,7 +39,7 @@ Maximum valid score: 100
 ---
 
 # Part 3 - Pseudocode  
->START  
+START  
 INPUT score  
 IF score < 0 OR score > 100 THEN  
 DISPLAY "Invalid score."  
