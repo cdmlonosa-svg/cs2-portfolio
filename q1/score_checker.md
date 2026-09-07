@@ -37,6 +37,7 @@ Maximum valid score: 100
 ## Part 2 - Flowchart
 <img width="967" height="710" alt="image" src="https://github.com/user-attachments/assets/700b7e08-c796-4865-85d9-6880a575798c" />
 ---
+
 # Part 3 - Pseudocode
 START  
 INPUT score  
