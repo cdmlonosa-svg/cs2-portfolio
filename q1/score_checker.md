@@ -41,10 +41,10 @@ Maximum valid score: 100
 5. Needs Improvement
 
 ## Boundary condition
-> The if condition `score < 0 or score > 100` is used to determine whether the score falls outside the limit.
+> The if condition score < 0 or score > 100 is used to determine whether the score falls outside the limit.
 
 ## Multiple decision paths
-> The `elif` and `else` statements check the input (`>= 90`, `score >= 80 and score < 90`, `score >= 75 and score < 80`, and the remaining scores) to classify valid scores into their appropriate performance.
+> The elif and else statements check the input (>= 90, score >= 80 and score < 90, score >= 75 and score < 80, and the remaining scores) to classify valid scores into their appropriate performance.
 
 ---
 
@@ -75,6 +75,7 @@ END
 ## ![Score Checker Source Code](score_checker.py)
 
 ---
+
 # Part 5 - Testing
 | Test | Input | Purpose | Expected Output | Actual Output | Result |
 |---|---:|---|---|---|---|
@@ -86,6 +87,29 @@ END
 | 6 | 90 | Outstanding boundary | Outstanding | Outstanding | PASS |
 | 7 | 100 | Maximum boundary | Outstanding | Outstanding | PASS |
 | 8 | 101 | Above maximum | Invalid score. | Invalid score. | PASS |
+
+---
+
+## Testing Reflection
+### 1. Why is it important to test the values 0 and 100?
+> Testing 1 and 100 verifies that the program can correctly accept the exact minimum and maximum limits of the range of valid scores.
+### 2. Why did you also test -1 and 101?
+> Testing -1 and 101 verifies that the program can properly identify out-of-bounds scores and classify them as invalid.
+### 3. Which test helped you understand boundary conditions the most?
+> Testing values that are less than 0 and greater than 100 helped me the most because seeing how the program correctly differentiates valid and invalid scores made boundary conditions much clearer.
+### 4. Did any of your tests initially fail? If yes, what did you change in your program?
+> No
+
+---
+
+# Reflection
+### 1. How did selection structures make the program more useful?
+> Selection structures allowed the program to evaluate conditions and make correct decisions.
+### 2. How did proper comments and readable formatting improve your program?
+> Proper comments and readable formatting improved my program by making my code understandable and easy to read.
+### 3. Why is it useful to plan the program using a flowchart and pseudocode before writing the code?
+> Planning the program is useful because it organizes the program's logic and helps me spot mistakes before coding without worrying about syntax.
+
 
 
 
