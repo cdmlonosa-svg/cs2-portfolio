@@ -6,4 +6,5 @@ Carl Dwayne M. Loñosa<br>
 [hello.py](q1/hello.py)<br>
 [Distance](q1/Loñosa_CarlDwayne_Distance.py)  
 [score_checker.py](q1/score_checker.py)  
-[score_checker.md](q1/score_checker.md)
+[score_checker.md](q1/score_checker.md)  
+[Score Checker Flowchart](./q1/score_checker_flowchart.png)
