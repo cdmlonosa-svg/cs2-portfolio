@@ -49,7 +49,7 @@ Maximum valid score: 100
 ---
 
 ## Part 2 - Flowchart
-![Score Checker Flowchart](./q1/score_checker_flowchart.png)
+![Score Checker Flowchart](score_checker_flowchart.png)
 
 ---
 
