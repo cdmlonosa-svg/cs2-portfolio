@@ -55,7 +55,7 @@ ENDIF
 END  
 ---
 # Part 4 - Clean Code Implementation  
-## [Score Checker Source Code](q1/score_checker.py)
+## [Score Checker Source Code](score_checker.py)
 
 
 
