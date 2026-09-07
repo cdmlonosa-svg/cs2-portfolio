@@ -38,8 +38,8 @@ Maximum valid score: 100
 <img width="967" height="710" alt="image" src="https://github.com/user-attachments/assets/700b7e08-c796-4865-85d9-6880a575798c" />
 ---
 
-# Part 3 - Pseudocode
-START  
+# Part 3 - Pseudocode  
+>START  
 INPUT score  
 IF score < 0 OR score > 100 THEN  
 DISPLAY "Invalid score."  
@@ -57,6 +57,9 @@ END
 # Part 4 - Clean Code Implementation  
 ## ![Score Checker Source Code](score_checker.py)
 
+---
+# Part 5 - Testing
+<img width="587" height="348" alt="image" src="https://github.com/user-attachments/assets/0564ea0d-1442-4ee9-9cbd-e6051cf375e1" />
 
 
 
