@@ -78,14 +78,14 @@ END
 # Part 5 - Testing
 | Test | Input | Purpose | Expected Output | Actual Output | Result |
 |---|---:|---|---|---|---|
-| 1 | -1 | Below minimum | Invalid score. | Invalid score. | |
-| 2 | 0 | Minimum boundary | Needs Improvement | Needs Improvement | |
-| 3 | 74 | Below Satisfactory boundary | Needs Improvement | Needs Improvement | |
-| 4 | 75 | Satisfactory boundary | Satisfactory | Satisfactory | |
-| 5 | 80 | Very Satisfactory boundary | Very Satisfactory |  Very Satisfactory | |
-| 6 | 90 | Outstanding boundary | Outstanding | Outstanding | |
-| 7 | 100 | Maximum boundary | Outstanding | Outstanding | |
-| 8 | 101 | Above maximum | Invalid score. | Invalid score. | |
+| 1 | -1 | Below minimum | Invalid score. | Invalid score. | PASS |
+| 2 | 0 | Minimum boundary | Needs Improvement | Needs Improvement | PASS |
+| 3 | 74 | Below Satisfactory boundary | Needs Improvement | Needs Improvement | PASS |
+| 4 | 75 | Satisfactory boundary | Satisfactory | Satisfactory | PASS |
+| 5 | 80 | Very Satisfactory boundary | Very Satisfactory |  Very Satisfactory | PASS |
+| 6 | 90 | Outstanding boundary | Outstanding | Outstanding | PASS |
+| 7 | 100 | Maximum boundary | Outstanding | Outstanding | PASS |
+| 8 | 101 | Above maximum | Invalid score. | Invalid score. | PASS |
 
 
 
