@@ -21,17 +21,17 @@ Minimum valid score: 0
 **Maximum valid score:**  
 Maximum valid score: 100
 
-## Possible Outputs:
+## Possible Outputs
 1. Invalid score.
 2. Outstanding
 3. Very Satisfactory
 4. Satisfactory
 5. Needs Improvement
 
-## Boundary condition?
+## Boundary condition
 > The if condition `score < 0 or score > 100` is used to determine whether the score falls outside the limit.
 
-## Multiple decision paths:
+## Multiple decision paths
 > The `elif` and `else` statements check the input (`>= 90`, `>= 80`, `>= 75`, and the remaining scores) to classify valid scores into their appropriate performance.
 ---
 ## Part 2 - Flowchart
