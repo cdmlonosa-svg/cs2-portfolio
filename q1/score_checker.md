@@ -1,28 +1,40 @@
+# Clean Decision Code Makeover: Student Score Checker
+**Name:** Your Name
+**Section:** Your Section
+---
+## Activity Overview
+
+In this activity, I improved a Student Score Checker program by applying proper coding standards and
+selection structures.
+The program accepts a student score from 0 to 100 and determines the appropriate classification.
+
 # Part 1 - Analyze the Logic
 
-**Input: What information does the program need?**  
-The program needs an integer value representing the student's score.
+## Input  
+What information does the program need?
+> The program needs an integer value representing the student's score.
 
-**Boundary: What is the minimum valid score?**  
+## Valid Range
+**Minimum valid score:**  
 Minimum valid score: 0
 
-**Boundary: What is the maximum valid score?**  
+**Maximum valid score:**  
 Maximum valid score: 100
 
-**Possible Outputs: What outcomes can the program produce?**  
+## Possible Outputs:
 1. Invalid score.
 2. Outstanding
 3. Very Satisfactory
 4. Satisfactory
 5. Needs Improvement
 
-**Selection Pattern: Which part uses a boundary condition?**  
-The if condition `score < 0 or score > 100` is used to determine whether the score falls outside the limit.
+## Boundary condition?
+> The if condition `score < 0 or score > 100` is used to determine whether the score falls outside the limit.
 
-**Selection Pattern: Which part uses multiple decision paths?**   
-The `elif` and `else` statements check the input (`>= 90`, `>= 80`, `>= 75`, and the remaining scores) to classify valid scores into their appropriate performance.
-
-## Part 2 - Create the Flowchart
+## Multiple decision paths:
+> The `elif` and `else` statements check the input (`>= 90`, `>= 80`, `>= 75`, and the remaining scores) to classify valid scores into their appropriate performance.
+---
+## Part 2 - Flowchart
 <img width="967" height="710" alt="image" src="https://github.com/user-attachments/assets/700b7e08-c796-4865-85d9-6880a575798c" />
 
 
