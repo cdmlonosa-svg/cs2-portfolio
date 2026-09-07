@@ -76,7 +76,16 @@ END
 
 ---
 # Part 5 - Testing
-<img width="587" height="348" alt="image" src="https://github.com/user-attachments/assets/0564ea0d-1442-4ee9-9cbd-e6051cf375e1" />
+| Test | Input | Purpose | Expected Output | Actual Output | Result |
+|---|---:|---|---|---|---|
+| 1 | -1 | Below minimum | Invalid score. | Invalid score. | |
+| 2 | 0 | Minimum boundary | Needs Improvement | Needs Improvement | |
+| 3 | 74 | Below Satisfactory boundary | Needs Improvement | Needs Improvement | |
+| 4 | 75 | Satisfactory boundary | Satisfactory | Satisfactory | |
+| 5 | 80 | Very Satisfactory boundary | Very Satisfactory |  Very Satisfactory | |
+| 6 | 90 | Outstanding boundary | Outstanding | Outstanding | |
+| 7 | 100 | Maximum boundary | Outstanding | Outstanding | |
+| 8 | 101 | Above maximum | Invalid score. | Invalid score. | |
 
 
 
