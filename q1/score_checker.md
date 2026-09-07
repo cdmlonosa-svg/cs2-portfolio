@@ -8,6 +8,16 @@ In this activity, I improved a Student Score Checker program by applying proper 
 selection structures.
 The program accepts a student score from 0 to 100 and determines the appropriate classification.
 
+The classifications are:
+| Score | Classification |
+|---:|---|
+| 90–100 | Outstanding |
+| 80–89 | Very Satisfactory |
+| 75–79 | Satisfactory |
+| 0–74 | Needs Improvement |
+
+Scores below 0 or above 100 are considered invalid.
+
 ---
 
 # Part 1 - Analyze the Logic
