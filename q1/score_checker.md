@@ -56,7 +56,9 @@ ELSE
 DISPLAY "Needs Improvement"  
 ENDIF  
 END  
+
 ---
+
 # Part 4 - Clean Code Implementation  
 ## ![Score Checker Source Code](score_checker.py)
 
