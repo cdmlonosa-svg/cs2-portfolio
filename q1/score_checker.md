@@ -1,6 +1,6 @@
 # Clean Decision Code Makeover: Student Score Checker
-**Name:** Your Name
-**Section:** Your Section
+**Name: Carl Dwayne M. Loñosa**  
+**Section: 8-Dahlia** 
 ---
 ## Activity Overview
 
