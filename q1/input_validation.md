@@ -1,8 +1,8 @@
-# Input Validation and Output Verification
-**Activity:** PSHS Workshop Registration Validator
-**Name:** Carl Dwayne M. Loñosa
-**Section:** Dahlia
-**Quarter:** 1
+# Input Validation and Output Verification    
+**Activity:** PSHS Workshop Registration Validator    
+**Name:** Carl Dwayne M. Loñosa    
+**Section:** Dahlia    
+**Quarter:** 1    
 ---
 ## Activity Overview
 In this activity, I created a program that validates information entered into a PSHS workshop registration
