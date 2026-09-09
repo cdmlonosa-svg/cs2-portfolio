@@ -43,7 +43,7 @@ Complete the table below before writing your program.
 Before writing your program, create either a **flowchart or pseudocode** showing its logic.
 ## Flowchart
 Insert your flowchart below.
-![Workshop Validator Flowchart](workshop_validator_flowchart.png)
+[`workshop_validator_flowchart.png`](workshop_validator_flowchart.png`)
 OR
 ## Pseudocode
 
