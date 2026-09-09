@@ -10,5 +10,3 @@ Carl Dwayne M. Loñosa<br>
 [Score Checker Flowchart](./q1/score_checker_flowchart.png)  
 [workshop_validator.py](q1/workshop_validator.py)  
 [input_validation.md](q1/input_validation.md)  
-[workshop_validator_flowchart.png](q1/workshop_validator_flowchart.png)  
-[Find.png](q1/Find.png)  
