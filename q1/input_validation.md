@@ -282,7 +282,7 @@ The registration code must contain exactly 6 characters.
 # Reflection
 Answer briefly.
 ### 1. Why should a program validate input before processing it?
-> It prevents wrong data from corrupting data and crashing.
+> It prevents wrong data from corrupting records and crashing.
 ### 2. What is the difference between input validation and output verification?
 > Input validation evaluates and filters user submissions before they enter the system, while output verification confirms that the final processed results match expectations.
 ### 3. Which validation technique was easiest for you to implement? Why?
