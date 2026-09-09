@@ -29,15 +29,15 @@ Complete the table below before writing your program.
 ---
 ## Validation Questions
 ### 1. Why should the student name not be blank?
-> Write your answer here.
+> It shouldn't be blank because the name is required.
 ### 2. Why should age be checked for both data type and range?
-> Write your answer here.
+> The data type is checked to ensure that the age is an integer and the range is checked because there is an age limit.
 ### 3. Why should grade level only accept specific values?
-> Write your answer here.
+> Because it's strictly PSHS grade levels.
 ### 4. What format requirements did you use for the email address?
-> Write your answer here.
+> A simple structural pattern check that requires "@" and "."
 ### 5. What length requirement did you use for the registration code?
-> Write your answer here.
+> Exactly 6 characters
 ---
 # Part B - Program Design
 Before writing your program, create either a **flowchart or pseudocode** showing its logic.
@@ -53,12 +53,6 @@ Write your pseudocode here.
 END
 ```
 
-Your design should show:
-- user input
-- validation decisions
-- error messages
-- accepted registration
-- rejected registration.
 ---
 # Part C - Program Implementation
 ## Programming Language
