@@ -90,6 +90,7 @@ END
 ---
 # Part C - Program Implementation
 ## Programming Language
+>Python
 ## Source Code File
 [`workshop_validator.py`](workshop_validator.py)
 ## Final Code
