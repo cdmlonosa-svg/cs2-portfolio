@@ -18,14 +18,14 @@ The program validates:
 ---
 # Part A - Validation Requirements
 Complete the table below before writing your program.
-| Data Captured | Expected Input | Validation Type | Invalid Input Example | Validation Rule | Error
-Message |
+| Data Captured | Expected Input | Validation Type | Invalid Input Example | Validation Rule | Error Message |
 |---|---|---|---|---|---|
-| Student Name | | | | | |
-| Age | | | | | |
-| Grade Level | | | | | |
-| Email Address | | | | | |
-| Registration Code | | | | | |
+| Student Name | Non-empty string | Presence | `""` (Blank) | Cannot be empty | Student name is required. |
+| Age | Integer (11–18) | Data Type & Range | `fourteen` or `25` | Must be a number between 11 and 18 | Age must be a number. / Age must be from 11 to 18. |
+| Grade Level | Integer (7–12) | Acceptable Value | `13` | Must be 7, 8, 9, 10, 11, or 12 | Invalid grade level. |
+| Email Address | String with `@` and `.` | Pattern | `studentpshs.edu.ph` | Must include both '@' and '.' characters | REGISTRATION NOT ACCEPTED |
+| Registration Code | String | Length | `ABC` (3 chars) | Must contain exactly 6 characters | The registration code must contain exactly 6 characters. |
+
 ---
 ## Validation Questions
 ### 1. Why should the student name not be blank?
