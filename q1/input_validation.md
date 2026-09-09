@@ -174,7 +174,7 @@ Test your program using both valid and invalid inputs.
 
 ---
 # Part E - Output Verification
-Choose any **three tests** from Part D.
+
 ## Verification Test 1
 **Input:**
 ```text
