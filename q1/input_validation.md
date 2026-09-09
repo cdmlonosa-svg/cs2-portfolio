@@ -41,10 +41,6 @@ Complete the table below before writing your program.
 ---
 # Part B - Program Design
 Before writing your program, create either a **flowchart or pseudocode** showing its logic.
-## Flowchart
-Insert your flowchart below.
-[`workshop_validator_flowchart.png`](workshop_validator_flowchart.png`)
-OR
 ## Pseudocode
 
 ```text
@@ -298,8 +294,6 @@ Answer briefly.
 # Files for This Activity
 - [`workshop_validator.py`](workshop_validator.py)
 - [`input_validation.md`](input_validation.md)
-- [`workshop_validator_flowchart.png`](workshop_validator_flowchart.png`)
-- [`Find.png`](`Find.png`)
 ---
 
 [← Back to Main Portfolio](../README.md)
