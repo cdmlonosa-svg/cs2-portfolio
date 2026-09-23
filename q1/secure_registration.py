@@ -1,7 +1,7 @@
 student_name = input("Enter student name: ").strip()
 if not student_name:
     print("REGISTRATION NOT ACCEPTED")
-    printError: ("Student name is required.")
+    printError: ("Error: Student name is required.")
 else:
     section = input("Enter section (Dahlia, Rosal, Ilang-Ilang, Sampaguita): ").strip()
     valid_sections = ["Dahlia", "Rosal", "Ilang-Ilang", "Sampaguita"]
@@ -24,7 +24,7 @@ else:
                 valid_attendance = ["Present", "Absent", "Late"]
                 if attendance not in valid_attendance:
                     print("REGISTRATION NOT ACCEPTED")
-                    print("Error: Invalid attendance status.")
+                    print("Error: Please enter a valid attendance status.")
                 else:
                     print("------------------------------")
                     print("REGISTRATION ACCEPTED")
@@ -34,4 +34,3 @@ else:
                     print(f"Club: {club}")
                     print(f"Email: {email}")
                     print(f"Attendance: {attendance}")
-
