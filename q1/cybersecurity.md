@@ -61,18 +61,18 @@ Complete the table before writing your program.
 | Data Captured | Expected Input | Possible Risk | Invalid Input Example | Validation Rule | Error
 Message |
 |---|---|---|---|---|---|
-| Student Name | Text string | Blank input / Empty string | `[blank]` | Must not be blank (`if not name:`) | Student name is required. |
-| Section | Dahlia, Rosal, Ilang-Ilang, Sampaguita | Unauthorized or mistyped sections | `Gaming` | Must match a predefined list | Invalid section. |
-| Club Choice | Robotics, Science, Mathematics, Programming | Invalid club entries | `Sports` | Must match a predefined list | Error: Please choose a valid club. |
-| School Email | Valid school format | Missing crucial email symbols | `studentpshs.edu.ph` | Must contain `@` and `.` | Error: Please enter a valid email. |
-| Attendance Status | Present, Absent, Late | Unexpected status values | `Unknown` | Must match `Present`, `Absent`, or `Late` | Error: Invalid attendance status. |
+| Student Name | Text string | Blank input / Empty string | [blank] | Must not be blank (if not student_name:) |Error: Student name is required. |
+| Section | Dahlia, Rosal, Ilang-Ilang, Sampaguita | Unauthorized or mistyped sections | Gaming | Must match a predefined list | Error: Please enter a valid section. |
+| Club Choice | Robotics, Science, Mathematics, Programming | Invalid club entries | Sports | Must match a predefined list | Error: Please choose a valid club. |
+| School Email | Valid school format | Missing crucial email symbols | studentpshs.edu.ph | Must contain both "@" and "." | Error: Please enter a valid email. |
+| Attendance Status | Present, Absent, Late | Unexpected status values | Unknown | Must be Present, Absent, or Late | Error: Please enter a valid attendance status. |
 
 ---
 ## Secure Data Capture Questions
 ### 1. What should your program accept?
 >  Only valid student names, approved sections, valid club choices, proper school emails, and correct attendance statuses.
 ### 2. What should your program reject?
-> Blank names, invalid sections, unapproved clubs, emails missing `@` or `.`, and invalid attendance statuses.
+> Blank names, invalid sections, unapproved clubs, emails missing "@" and ".", and invalid attendance statuses.
 ### 3. How do your validation rules help reduce incorrect or unsafe input?
 > They reject incorrect, blank, or unexpected data before it can be processed or stored.
 ---
@@ -96,7 +96,7 @@ It should **not request passwords, OTPs, banking information, or unnecessary per
 # student_name = input("Enter student name: ").strip()
 if not student_name:
     print("REGISTRATION NOT ACCEPTED")
-    printError: ("Student name is required.")
+    printError: ("Error: Student name is required.")
 else:
     section = input("Enter section (Dahlia, Rosal, Ilang-Ilang, Sampaguita): ").strip()
     valid_sections = ["Dahlia", "Rosal", "Ilang-Ilang", "Sampaguita"]
@@ -119,7 +119,7 @@ else:
                 valid_attendance = ["Present", "Absent", "Late"]
                 if attendance not in valid_attendance:
                     print("REGISTRATION NOT ACCEPTED")
-                    print("Error: Invalid attendance status.")
+                    print("Error: Please enter a valid attendance status.")
                 else:
                     print("------------------------------")
                     print("REGISTRATION ACCEPTED")
