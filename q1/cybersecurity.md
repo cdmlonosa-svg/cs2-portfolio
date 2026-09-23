@@ -58,8 +58,7 @@ Why is it safer to collect only information that the program actually needs?
 ---
 # Part C - Security-Focused Validation Rules
 Complete the table before writing your program.
-| Data Captured | Expected Input | Possible Risk | Invalid Input Example | Validation Rule | Error
-Message |
+| Data Captured | Expected Input | Possible Risk | Invalid Input Example | Validation Rule | Error Message |
 |---|---|---|---|---|---|
 | Student Name | Text string | Blank input / Empty string | [blank] | Must not be blank (if not student_name:) |Error: Student name is required. |
 | Section | Dahlia, Rosal, Ilang-Ilang, Sampaguita | Unauthorized or mistyped sections | Gaming | Must match a predefined list | Error: Please enter a valid section. |
