@@ -10,6 +10,5 @@ Carl Dwayne M. Loñosa<br>
 [Score Checker Flowchart](./q1/score_checker_flowchart.png)  
 [workshop_validator.py](q1/workshop_validator.py)  
 [input_validation.md](q1/input_validation.md)  
-[cybersecurity.md](q1/cybersecurity.md)  
 [secure_registration.py](q1/secure_registration.py)  
-
+[cybersecurity.md](q1/cybersecurity.md)  
