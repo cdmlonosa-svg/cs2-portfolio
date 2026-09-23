@@ -149,8 +149,6 @@ else:
 ## Testing
 | Test | Input Situation | Expected Output | Actual Output | Result |
 |---:|---|---|---|---|
-| Test | Input Situation | Expected Output | Actual Output | Result |
-|---|---|---|---|---|
 | 1 | All data valid | Registration accepted | Registration accepted | PASS |
 | 2 | Blank student name | Rejected | Rejected | PASS |
 | 3 | Invalid section | Rejected | Rejected | PASS |
