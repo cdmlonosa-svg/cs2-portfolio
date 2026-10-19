@@ -11,6 +11,6 @@ Carl Dwayne M. Loñosa<br>
 [workshop_validator.py](q1/workshop_validator.py)  
 [input_validation.md](q1/input_validation.md)  
 [secure_registration.py](q1/secure_registration.py)  
-[cybersecurity.md](q1/cybersecurity.md)  
+[cybersecurity.md](q1/cybersecurity.md)<br>
 **Q2 Links**
 [canteenpurchasecalculator.py](q2/canteenpurchasecalculator.py]
