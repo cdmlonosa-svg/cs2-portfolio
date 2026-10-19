@@ -2,7 +2,7 @@
 Hello po! Welcome to my Portfolio for Computer Science 2 Q1<br>
 Carl Dwayne M. Loñosa<br>
 8-Dahlia<br>
-**Links:**<br>
+**Q1 Links:**<br>
 [hello.py](q1/hello.py)<br>
 [Distance](q1/Loñosa_CarlDwayne_Distance.py)  
 [score_checker.py](q1/score_checker.py)  
@@ -12,3 +12,5 @@ Carl Dwayne M. Loñosa<br>
 [input_validation.md](q1/input_validation.md)  
 [secure_registration.py](q1/secure_registration.py)  
 [cybersecurity.md](q1/cybersecurity.md)  
+**Q2 Links**
+[canteenpurchasecalculator.py](q2/canteenpurchasecalculator.py]
