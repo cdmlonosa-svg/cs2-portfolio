@@ -24,7 +24,7 @@ print(f"Average: {average}")
 print(f"Performance: {performance}")
 print(f"Eligible for Challenge: {eligible}")
 
-#DOCUMENTATION QUESTIONS
+#DOCUMENTATION QUESTIONS:
 # 1. Which function returns a number, which returns a string, and which returns a Boolean?
 # calculate_average() returns a number, get_performance() returns a string, and is_eligible() returns a Boolean value.
 # 2. Explain how the average moves from calculate_average() into get_performance().
