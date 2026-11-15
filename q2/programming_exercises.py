@@ -4,7 +4,7 @@
 for i in range(2, 21, 2):
 #This prints each even number.
   print(i)
-
+-----------------------------------------------------------------------------------------------------------------
 # Exercise 2: The Countdown Timer
 
 # This sets 10 as the starting point because the countdown timer starts at 10.
