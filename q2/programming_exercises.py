@@ -1,8 +1,8 @@
 # Exercise 1: Count Even Numbers
 
-# In this line, it creates a loop using i (i is a variable for each number) starting from 1 to 21 (excluding 21, so it's from 2 to 20) with an increment of 2.
+# In this line, it creates a loop using i (i is a variable for each number) starting from 2 to 21 (excluding 21, so it's from 2 to 20) with an increment of 2.
 for i in range(2, 21, 2):
-#This prints each even number.
+#This prints each even number from 2 to 20.
   print(i)
   
 
@@ -36,18 +36,18 @@ for i in range(1, 16):
   
 # Exercise 4. Multiplication Table Generator
 
-# This defines a function named multiplication_table with given_number as a parameter
-def multiplication_table(given_number):
+# This defines a function named show_table with given_number as a parameter
+def show_table(number):
 # This creates a loop using i (i is a variable for each number) starting from 1 to 11 (excluding 11, so it's from 1 to 10).
 # It has an increment of 1 because it is the default increment.
     for i in range(1, 11):
 # This multiplies the given number from the user by i with product as a variable.
-        product = given_number * i
+        product = number * i
 # This prints the given number mutiplied by i is equal to product
-        print(f"{given_number} x {i} = {product}")
+        print(f"{number} x {i} = {product}")
 
 # This asks the user for a number.
-given_number = int(input("Enter a number: "))
+number = int(input("Enter a number: "))
 
 # This calls the function and pass the user's number as an argument. This prints the multiplication table of the given number.
-multiplication_table(given_number)
+show_table(number)
