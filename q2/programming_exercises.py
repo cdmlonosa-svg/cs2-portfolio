@@ -4,6 +4,7 @@
 for i in range(2, 21, 2):
 #This prints each even number.
   print(i)
+  
 
 # Exercise 2: The Countdown Timer
 
@@ -19,6 +20,7 @@ while number > 0:
 # This prints the words, "Time is up!" after the countdown timer ends.
 print("Time is up!")
 
+
 # Exercise 3: Skip Multiples
 
 # In this line, it creates a loop using i (i is a variable for each number) starting from 1 to 16 (excluding 16, so it's from 1 to 15).
@@ -31,16 +33,17 @@ for i in range(1, 16):
 # This prints i after it goes through the if block without a remainder of 0.
   print(i)
   
+  
 # Exercise 4. Multiplication Table Generator
 
-#This defines a function named multiplication_table with given_number as a parameter
+# This defines a function named multiplication_table with given_number as a parameter
 def multiplication_table(given_number):
 # This creates a loop using i (i is a variable for each number) starting from 1 to 11 (excluding 11, so it's from 1 to 10).
 # It has an increment of 1 because it is the default increment.
     for i in range(1, 11):
 # This multiplies the given number from the user by i with product as a variable.
         product = given_number * i
- #This prints the given number mutiplied by i is equal to product
+# This prints the given number mutiplied by i is equal to product
         print(f"{given_number} x {i} = {product}")
 
 # This asks the user for a number.
