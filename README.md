@@ -15,4 +15,4 @@ Carl Dwayne M. Loñosa<br>
 **Q2 Links**  
 [canteenpurchasecalculator.py](q2/canteenpurchasecalculator.py)  
 [student_performance_evaulator.py](q2/student_performance_evaulator.py)  
-[programming_excerises.py](q2/programming_excerises.py)
+[programming_excerises.py](q2/programming_exercises.py)
