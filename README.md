@@ -17,4 +17,5 @@ Carl Dwayne M. Loñosa<br>
 [student_performance_evaulator.py](q2/student_performance_evaulator.py)  
 [Exercise 1: Count Even Numbers](q2/Exercise_1.py)  
 [Exercise 2: The Countdown Timer](q2/Exercise_2.py)  
-[Exercise 3: Skip Multiples](
+[Exercise 3: Skip Multiples](q2/Exercise_3.py)  
+[Exercise 4. Multiplication Table Generator](
