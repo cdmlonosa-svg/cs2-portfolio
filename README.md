@@ -15,5 +15,4 @@ Carl Dwayne M. Loñosa<br>
 **Q2 Links**  
 [canteenpurchasecalculator.py](q2/canteenpurchasecalculator.py)  
 [student_performance_evaulator.py](q2/student_performance_evaulator.py)  
-The 4 Links Below Are For The 4 Exercises:  
-[Excercise
+[Exercise 1: Count Even Numbers](
