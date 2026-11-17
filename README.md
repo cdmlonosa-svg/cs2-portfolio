@@ -15,4 +15,5 @@ Carl Dwayne M. Loñosa<br>
 **Q2 Links**  
 [canteenpurchasecalculator.py](q2/canteenpurchasecalculator.py)  
 [student_performance_evaulator.py](q2/student_performance_evaulator.py)  
-[Exercise 1: Count Even Numbers](
+[Exercise 1: Count Even Numbers](q2/Exercise_1.py)  
+[Exercise 2: The Countdown Timer]
