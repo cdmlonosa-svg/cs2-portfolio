@@ -22,4 +22,4 @@ _Progamming Exercises 1_
 [Exercise 4: Multiplication Table Generator](q2/Exercise_4.py)  
 _Progamming Exercises 2_  
 [Exercise 1: My School Bag](q2/Exercise1.py)  
-[Exercise 2: Travel Destination Manager](
+[Exercise 2: Travel Destination Manager](q2/Exercise2.py)
