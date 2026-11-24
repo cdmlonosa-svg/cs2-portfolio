@@ -21,4 +21,5 @@ _Progamming Exercises 1_
 [Exercise 3: Skip Multiples](q2/Exercise_3.py)  
 [Exercise 4: Multiplication Table Generator](q2/Exercise_4.py)  
 _Progamming Exercises 2_  
-[Exercise 1: My School Bag]
+[Exercise 1: My School Bag](q2/Exercise1.py)
+[Exercise 2: Travel Destination Manager](
