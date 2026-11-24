@@ -12,7 +12,7 @@ Carl Dwayne M. Loñosa<br>
 [input_validation.md](q1/input_validation.md)  
 [secure_registration.py](q1/secure_registration.py)  
 [cybersecurity.md](q1/cybersecurity.md)<br>
-**Q2 Links**  
+**Q2 Links:**  
 [canteenpurchasecalculator.py](q2/canteenpurchasecalculator.py)  
 [student_performance_evaulator.py](q2/student_performance_evaulator.py)  
 Progamming Exercises 1:  
