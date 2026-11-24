@@ -1,7 +1,6 @@
 # Exercise 1: My School Bag
 school_items = ["Notebook", "Pen", "Calculator", "Laptop", "Book"]
 
-print("School Supplies: ")
 print(school_items[0])
 print(school_items[1])
 print(school_items[2])
